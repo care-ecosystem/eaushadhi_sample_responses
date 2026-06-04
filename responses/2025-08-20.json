@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/004093/404085",
+    "instituteid": "004093",
+    "Institute_name": "Covid19 District Hospital Mysuru",
+    "InstituteType": "DLH",
+    "Receipt_Date": "2025-08-20",
+    "Batch_number": "TA24791",
+    "Mfg_date": "2024-10-01",
+    "Exp_date": "2026-09-30",
+    "Quantity_In_Pack": 400,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 40000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "17.7.5",
+    "Drug_name": "Glimepiride Tablet IP 1mg 1x10x10",
+    "NotofStandard": "NO",
+    "Dose": "Tablet IP"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/000898/795573",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-12-26",
+    "Batch_number": "14402825",
+    "Mfg_date": "2025-07-01",
+    "Exp_date": "2027-06-30",
+    "Quantity_In_Pack": 500,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 50000,
+    "Available_quantity": 200,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "6.6.24",
+    "Drug_name": "Ceftriaxone Injection IP 1gm 1x1Vial",
+    "NotofStandard": "NO",
+    "Dose": "Injection IP"
+  }
+]

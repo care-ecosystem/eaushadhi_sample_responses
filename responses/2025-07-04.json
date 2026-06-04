@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/000898/245215",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-07-04",
+    "Batch_number": "JDT-8658",
+    "Mfg_date": "2024-11-01",
+    "Exp_date": "2026-10-31",
+    "Quantity_In_Pack": 1800,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 180000,
+    "Available_quantity": 400,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "43.1.40",
+    "Drug_name": "Metformin Hydrochloride Sustained release  Tablet IP 500mg 1x10x10",
+    "NotofStandard": "NO",
+    "Dose": "Tablet IP"
+  }
+]

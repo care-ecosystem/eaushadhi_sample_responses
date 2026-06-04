@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2024-25/000931/1058346",
+    "instituteid": "000931",
+    "Institute_name": "CHC BANNUR",
+    "InstituteType": "CHC",
+    "Receipt_Date": "2025-02-04",
+    "Batch_number": "2BD24020",
+    "Mfg_date": "2024-08-01",
+    "Exp_date": "2026-07-31",
+    "Quantity_In_Pack": 2000,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 200000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "1.3.63",
+    "Drug_name": "Diclofenac Sodium Injection IP (IV Bolus) 75mg/ml 1x1ml",
+    "NotofStandard": "NO",
+    "Dose": "Injection IP"
+  }
+]

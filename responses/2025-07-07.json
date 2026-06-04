@@ -1,0 +1,42 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/000898/251066",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-07-07",
+    "Batch_number": "JDC-1517",
+    "Mfg_date": "2025-01-01",
+    "Exp_date": "2026-12-31",
+    "Quantity_In_Pack": 50,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 5000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "16.1.25",
+    "Drug_name": "Omeprazole gastro-Resistant Capsule IP 20mg 1x10x10",
+    "NotofStandard": "NO",
+    "Dose": "Capsule IP"
+  },
+  {
+    "Sl_No": 2,
+    "inwardno": "INI/WH/2025-26/000898/251071",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-07-07",
+    "Batch_number": "24021",
+    "Mfg_date": "2024-01-01",
+    "Exp_date": "2026-12-31",
+    "Quantity_In_Pack": 100,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 10000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "4.1.6",
+    "Drug_name": "Magnesium sulphate Injection 500mg/ml 1x2ml",
+    "NotofStandard": "NO",
+    "Dose": "Injection"
+  }
+]

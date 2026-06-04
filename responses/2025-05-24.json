@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/000898/135982",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-05-24",
+    "Batch_number": "JDC-1484",
+    "Mfg_date": "2024-12-01",
+    "Exp_date": "2026-11-30",
+    "Quantity_In_Pack": 200,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 20000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "16.1.25",
+    "Drug_name": "Omeprazole gastro-Resistant Capsule IP 20mg 1x10x10",
+    "NotofStandard": "NO",
+    "Dose": "Capsule IP"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/000898/231940",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-06-28",
+    "Batch_number": "01QBG2418",
+    "Mfg_date": "2024-07-01",
+    "Exp_date": "2027-06-30",
+    "Quantity_In_Pack": 1500,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 150000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "28.25.11",
+    "Drug_name": "Sterile disposable syringe with hypodermic needle | NA | 1ml -26G| 1/2 needle NA 1ml-26G| 1x1",
+    "NotofStandard": "NO",
+    "Dose": "NA"
+  },
+  {
+    "Sl_No": 2,
+    "inwardno": "INI/WH/2025-26/000898/231943",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-06-28",
+    "Batch_number": "BT250496",
+    "Mfg_date": "2025-05-01",
+    "Exp_date": "2027-04-30",
+    "Quantity_In_Pack": 20,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 2000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "6.6.64",
+    "Drug_name": "Amoxicillin and Potassium Clavulanate Tablet 625mg 1x10x10",
+    "NotofStandard": "NO",
+    "Dose": "Tablet"
+  }
+]

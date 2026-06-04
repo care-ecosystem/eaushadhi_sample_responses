@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2024-25/000931/1099881",
+    "instituteid": "000931",
+    "Institute_name": "CHC BANNUR",
+    "InstituteType": "CHC",
+    "Receipt_Date": "2025-02-20",
+    "Batch_number": "TEP24074AL",
+    "Mfg_date": "2024-10-01",
+    "Exp_date": "2026-09-30",
+    "Quantity_In_Pack": 10,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 1000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "11.3.48",
+    "Drug_name": "Telmisartan Tablet 40mg 1x50x10",
+    "NotofStandard": "NO",
+    "Dose": "Tablet"
+  }
+]

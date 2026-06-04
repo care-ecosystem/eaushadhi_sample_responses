@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/000898/722998",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-11-25",
+    "Batch_number": "CCT1332",
+    "Mfg_date": "2025-05-01",
+    "Exp_date": "2027-04-30",
+    "Quantity_In_Pack": 21,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 2100,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "6.7.99",
+    "Drug_name": "Ciprofloxacin Tablet IP 500mg 1x10x10",
+    "NotofStandard": "NO",
+    "Dose": "Tablet IP"
+  }
+]

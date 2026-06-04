@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2024-25/000898/1062333",
+    "instituteid": "000898",
+    "Institute_name": "GH100, TALUK HOSPITAL, T.NARASIPURA",
+    "InstituteType": "TLH",
+    "Receipt_Date": "2025-02-06",
+    "Batch_number": "132412T03",
+    "Mfg_date": "2024-11-01",
+    "Exp_date": "2026-10-31",
+    "Quantity_In_Pack": 10,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 1000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "11.4.17",
+    "Drug_name": "Tenecteplase Injection 40mg with sterile water for injection I.P 10ml 1x1",
+    "NotofStandard": "NO",
+    "Dose": "Injection"
+  }
+]

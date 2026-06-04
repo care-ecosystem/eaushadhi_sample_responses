@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/000931/172687",
+    "instituteid": "000931",
+    "Institute_name": "CHC BANNUR",
+    "InstituteType": "CHC",
+    "Receipt_Date": "2025-06-11",
+    "Batch_number": "ASVS-I/Ly-136",
+    "Mfg_date": "2024-10-01",
+    "Exp_date": "2028-09-30",
+    "Quantity_In_Pack": 5,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 500,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "5.3.32",
+    "Drug_name": "Snake Venom Antiserum IP (Polyvalent Lyophilized) Powder for Infusion NA 1x10ml",
+    "NotofStandard": "NO",
+    "Dose": "Powder for Infusion"
+  }
+]

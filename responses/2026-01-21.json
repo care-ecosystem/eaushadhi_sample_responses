@@ -1,0 +1,42 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/004093/850653",
+    "instituteid": "004093",
+    "Institute_name": "Covid19 District Hospital Mysuru",
+    "InstituteType": "DLH",
+    "Receipt_Date": "2026-01-21",
+    "Batch_number": "A02825001",
+    "Mfg_date": "2025-01-01",
+    "Exp_date": "2027-12-31",
+    "Quantity_In_Pack": 4,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 400,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "18.2.3",
+    "Drug_name": "Antitetanus Human Immunoglobin Injection 250IU 1x1Vial",
+    "NotofStandard": "NO",
+    "Dose": "Injection"
+  },
+  {
+    "Sl_No": 2,
+    "inwardno": "INI/WH/2025-26/004093/850656",
+    "instituteid": "004093",
+    "Institute_name": "Covid19 District Hospital Mysuru",
+    "InstituteType": "DLH",
+    "Receipt_Date": "2026-01-21",
+    "Batch_number": "A02825001",
+    "Mfg_date": "2025-01-01",
+    "Exp_date": "2027-12-31",
+    "Quantity_In_Pack": 10,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 1000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "18.2.3",
+    "Drug_name": "Antitetanus Human Immunoglobin Injection 250IU 1x1Vial",
+    "NotofStandard": "NO",
+    "Dose": "Injection"
+  }
+]

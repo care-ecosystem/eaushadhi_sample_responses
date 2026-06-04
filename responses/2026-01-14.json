@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/004093/829714",
+    "instituteid": "004093",
+    "Institute_name": "Covid19 District Hospital Mysuru",
+    "InstituteType": "DLH",
+    "Receipt_Date": "2026-01-14",
+    "Batch_number": "A02725018",
+    "Mfg_date": "2025-07-01",
+    "Exp_date": "2027-06-30",
+    "Quantity_In_Pack": 70,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 7000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "18.2.10",
+    "Drug_name": "E-RIG (Equine Rabies Anti Serum ) Injection IP (300IU/ml, Potency-1500IU) 1x5ml Vial",
+    "NotofStandard": "NO",
+    "Dose": "Injection IP"
+  }
+]

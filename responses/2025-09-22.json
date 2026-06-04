@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/004093/535595",
+    "instituteid": "004093",
+    "Institute_name": "Covid19 District Hospital Mysuru",
+    "InstituteType": "DLH",
+    "Receipt_Date": "2025-09-22",
+    "Batch_number": "19902025",
+    "Mfg_date": "2025-06-01",
+    "Exp_date": "2026-11-30",
+    "Quantity_In_Pack": 50,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 5000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "6.6.56",
+    "Drug_name": "Amoxycillin Oral Suspension IP 125mg/5ml 1x60ml",
+    "NotofStandard": "NO",
+    "Dose": "Oral Suspension IP"
+  }
+]

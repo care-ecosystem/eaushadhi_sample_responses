@@ -1,0 +1,22 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/000931/699761",
+    "instituteid": "000931",
+    "Institute_name": "CHC BANNUR",
+    "InstituteType": "CHC",
+    "Receipt_Date": "2025-11-17",
+    "Batch_number": "KB25029",
+    "Mfg_date": "2025-09-01",
+    "Exp_date": "2028-08-31",
+    "Quantity_In_Pack": 40,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 4000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "D00716",
+    "Drug_name": "Rabies  Vaccine, Human IP 2.5IU/1 ML Vial with Diluent 1x1ml",
+    "NotofStandard": "NO",
+    "Dose": "Vaccine, Human IP"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Sl_No": 1,
+    "inwardno": "INI/WH/2025-26/004093/834042",
+    "instituteid": "004093",
+    "Institute_name": "Covid19 District Hospital Mysuru",
+    "InstituteType": "DLH",
+    "Receipt_Date": "2026-01-16",
+    "Batch_number": "BE01E014AB",
+    "Mfg_date": "2024-11-14",
+    "Exp_date": "2026-10-30",
+    "Quantity_In_Pack": 135,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 13500,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "10.1.51",
+    "Drug_name": "Coagulant Factor VIII (Recombinant) rFVIII (Plasma/Albumin free method) Injection IP 1000 IU 1x1",
+    "NotofStandard": "NO",
+    "Dose": "Injection IP"
+  },
+  {
+    "Sl_No": 2,
+    "inwardno": "INI/WH/2025-26/004093/836066",
+    "instituteid": "004093",
+    "Institute_name": "Covid19 District Hospital Mysuru",
+    "InstituteType": "DLH",
+    "Receipt_Date": "2026-01-16",
+    "Batch_number": "JDT-8714",
+    "Mfg_date": "2024-12-01",
+    "Exp_date": "2026-11-30",
+    "Quantity_In_Pack": 540,
+    "UnitPack": "1x10x10",
+    "Quantity_In_Units": 54000,
+    "Available_quantity": 0,
+    "Warehouse_name": "Mysuru WH",
+    "Drug_id": "43.1.40",
+    "Drug_name": "Metformin Hydrochloride Sustained release  Tablet IP 500mg 1x10x10",
+    "NotofStandard": "NO",
+    "Dose": "Tablet IP"
+  }
+]
